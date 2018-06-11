@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/cache",
+	"name":        "lestor/cache",
 	"type":        "kohana-module",
 	"description": "The official Kohana cache management module",
 	"homepage":    "http://kohanaframework.org",
